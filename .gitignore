@@ -1,0 +1,39 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+*.pkl
+*.h5
+*.pt
+*.ckpt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Datasets or large media files (optional)
+data/
+datasets/
+outputs/
